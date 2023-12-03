@@ -1,4 +1,4 @@
-# BreadcrumbsData-Science-Assignment-No.13-Q.1
+# Data-Science-Assignment-No.13-Q.1
 Prepare a model for glass classification using KNN
 
 Data Description:
